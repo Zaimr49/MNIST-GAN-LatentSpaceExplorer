@@ -67,3 +67,19 @@ Interested in contributing to the **Latent Space Explorer**? We welcome contribu
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+
+## Analytical Questions
+
+At the conclusion of the notebook, we delve into critical analytical questions that test the robustness and adaptability of our generative model under various conditions. These questions not only challenge the model but also deepen our understanding of generative modeling dynamics:
+
+### Q1: Impact of Reduced Dataset Size
+
+- **Objective**: Explore the effects of training the GAN with only half the dataset size.
+
+
+### Q2: Exploring Alternate Loss Functions
+
+- **Objective**: Investigate how changing the loss function influences the GAN's performance and output quality.
+
+
+These exploratory questions are designed to push the boundaries of our model and provide insightful observations on the intrinsic properties of generative adversarial networks.
