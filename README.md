@@ -7,7 +7,7 @@ Dive into the fascinating world of generative modeling with **Latent Space Explo
 
 To embark on this exploration, you'll need:
 
-- Python 3.9
+- Python 3.9.6
 - PyTorch
 - Matplotlib
 - Jupyter Notebook
